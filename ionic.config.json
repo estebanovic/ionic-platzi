@@ -1,0 +1,7 @@
+{
+  "name": "ionic-platzi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
